@@ -9,4 +9,9 @@ class spark{
             System.out.println("m1");
         }
 
+        public void notifyUser()
+        {
+            System.out.println("hello user");
+        }
+
     }
