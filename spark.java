@@ -14,4 +14,10 @@ class spark{
             System.out.println("hello user");
         }
 
+        public void auth()
+        {
+            System.out.println(:"Authentification addedd");
+        }
+        
+
     }
